@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Proposal Website",
+  "description": "An interactive, playful and romantic proposal website for Bhavna from Hiroshi, featuring animated questions and playful escape buttons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
